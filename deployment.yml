@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: karthik2701/tetris:replaceImageTag
+        image: karthik2701/tetris:14
         ports:
         - containerPort: 3000   # Use port 3000
 
